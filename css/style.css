@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+}
+.navbar-dark .container-fluid .navbar-brand {
+    color: #c62c45;
+}
+header .bg-container {
+    background: rgba(0, 0,0, 0.8)!important; 
+    background-image: url(../img/header-bg.jpg)!important;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+    background-blend-mode: darken!important;
+}
